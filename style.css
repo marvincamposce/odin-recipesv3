@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: rgb(130, 106, 169);
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  background-color: rgb(219, 163, 98);
+  color: white;
+  text-align: center;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  display: block;
+  text-align: center;
+}
+
+a:visited {
+  color: rgb(134, 62, 134);
+}
