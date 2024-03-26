@@ -1,0 +1,1 @@
+The purpose of this project is to create a website that contains recipes. This project will be made in HTML, and after completing it I will have demostrated my HTML skills.
